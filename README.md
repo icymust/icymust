@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin Mustonen (@icymust)
 - 👀 I’m interested in programming and network 
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 You can write me on my email mmartinki@gmail.com
 
