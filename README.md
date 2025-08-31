@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Martin Mustonen (@icymust)
-- 👀 I’m interested in programming and network 
-- 🌱 I’m currently learning javascript, java, C
+- 🌱 Fullstack developer 
 - 💞️ I’m looking to collaborate on 
 - 📫 You can write me on my email mmartinki@gmail.com
 - 🧑🏻‍🏫 Student Kood/Jõhvi, 42 Abu Dhabi
