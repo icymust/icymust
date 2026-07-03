@@ -12,6 +12,10 @@ I enjoy building things from low-level C projects to fullstack web applications.
 - 🛠️ Interested in clean code, problem solving, backend logic, and low-level programming
 - 🌍 Based in Abu Dhabi
 
+## This is my current status at 42 school
+
+[![mmustone's 42 stats](https://badge.mediaplus.ma/darkblue/mmustone?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/mmustone)
+
 ## Tech stack
 
 ## Tech stack
@@ -48,10 +52,6 @@ I enjoy building things from low-level C projects to fullstack web applications.
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![NGINX](https://img.shields.io/badge/NGINX-0D1117?style=for-the-badge&logo=nginx&logoColor=009639)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-## This is my current status at 42 school
-
-[![mmustone's 42 stats](https://badge.mediaplus.ma/darkblue/mmustone?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/mmustone)
 
 ## GitHub activity
 
