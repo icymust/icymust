@@ -18,8 +18,6 @@ I enjoy building things from low-level C projects to fullstack web applications.
 
 ## Tech stack
 
-## Tech stack
-
 ### Languages
 
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00599C)
